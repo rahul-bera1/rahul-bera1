@@ -8,6 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-bera1&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-bera1" /> </p>
 
 
+
 - 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **Bera102310@gmail.com**
